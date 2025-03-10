@@ -8,60 +8,46 @@ download_cv: assets/docs/Template_CV.pdf
 
 ## Formation 
 
-`20XX – 20XX`
-**Nom de votre école**
+`2024 – Aujourdh'hui`
+**UniLaSalle Amiens**
 
-Elève ingénieur en [préciser la spécialité]
-* Cours : préciser les cours en phase avec le poste visé
+Elève ingénieur en Numérique et Energie
+* Cours : mathématiques, physique, électronique et programmation
 
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
-* Cours : préciser les cours en phase avec le poste visé
+`2021 – 2024`
+**Lycée Sainte Famille Amiens** 
+* Baccalauréat général spécialités mathématiques et physique-chimie - option maths expertes et grec ancien
 
-`20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
 
 ## Expériences
 
-`20XX` **Projet d’étude – préciser le thème du projet**
+`2025` **Job étudiant - Atelier Flinois**
 
-_Réalisé en équipe de XX étudiants_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+* Logistique
+* Communication
+* Gestion des délais
 
 
-`20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
+`2025` **Etudiante Relais Santé**
 
-_Stage – intitulé du poste_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+* Communication
+* Construction projet (sensibilisation, sondage, etc...)
 
-`20XX` **Association, description de l’asso., taille**
-
-_Intitulé du poste dans une équipe de XX membres_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
 
 ## Compétences
 
 Langues
-* LV1 à préciser : niveau à préciser (résultat d’examen)
-* LV2 à préciser : niveau à préciser (résultat d’examen)
+* Anglais : B1
+* Espagnol : B1
 
 Informatique
-* Logiciels maitrisés
-* Logiciels maitrisés
-
-Autres
-* Autres diplômes ou permis spéciaux
+* Language C
+* Logiciels Microsoft
 
 ## Centres d’intérêt
 
-Loisirs 1
-* Description 
-* Description 
+Pâtisserie
+* Précision
 
-Loisirs 1
-* Description 
-* Description 
+Couture
+* Patience
