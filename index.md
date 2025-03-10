@@ -8,15 +8,10 @@ hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 ---
 
-# Prénom NOM
-Elève ingénieur en [préciser sa spécialité]
+# Yasmine EL HASSANI
+Elève ingénieur en Numérique et Energie
 
 
-Disponible XX mois à partir de Date
+Disponible 1 mois du 23 juin 2025
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
-
-[LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
-
-Permis B, voiture
-
+elhassani.yasmine2024@gmail.com
