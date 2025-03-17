@@ -7,19 +7,13 @@ download_cv: assets/docs/Template_CV.pdf
 ---
 
 ## Formation 
-`2025`
-**PSSM**
-* Secouriste en santé mentale
-
-`2025`
-**PSC1**
-  
-* Secouriste
 `2024 – Aujourdh'hui`
 **UniLaSalle Amiens**
 
 Elève ingénieur en Numérique et Energie
 * Cours : mathématiques, physique, électronique et programmation
+* PSSM : formation aux premiers secours en santé mentale - titre de secouriste en santé mentale
+* PSC1 : formation aux premiers secours - titre de secouriste
 
 `2021 – 2024`
 **Lycée Sainte Famille Amiens** 
