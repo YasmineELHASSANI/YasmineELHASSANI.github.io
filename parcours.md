@@ -10,6 +10,7 @@ download_cv: assets/docs/Template_CV.pdf
 `2025`
 **PSSM**
 * Secouriste en santé mentale
+`2025`
 **PSC1**
 * Secouriste
 `2024 – Aujourdh'hui`
