@@ -11,6 +11,7 @@ download_cv: assets/docs/Template_CV.pdf
 **PSSM**
 * Formation aux premiers secours en santé mentale - titre de secouriste en santé mentale
 
+`2025`
 **PSC1**
   * Formation aux premiers secours - titre de secouriste
 
