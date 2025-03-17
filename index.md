@@ -3,9 +3,9 @@ layout: promo-page
 title: Qui suis-je?
 description: "Ceci est un exemple de CV que vous pouvez générer par vous-même"
 menubar: menu_bar
-hero_image: assets/imgs/image.png
+hero_image: PdP.png
 hero_image_alt: Ma photo
-hero_image_ratio: is-1by1
+hero_image_ratio: is-4by5
 ---
 
 # Yasmine EL HASSANI
