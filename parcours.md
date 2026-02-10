@@ -3,7 +3,7 @@ layout: page
 title: Mon parcours
 description: "Ceci est un exemple de CV que vous pouvez générer par vous-même"
 menubar: menu_bar
-download_cv: CV EL HASSANI Yasmine.pdf
+download_cv: CV_EL HASSANI Yasmine.pdf
 ---
 
 ## Formation 
@@ -29,34 +29,49 @@ Elève ingénieur en Numérique et Energie
 
 
 ## Expériences
+`Juin-Juillet 2025`  **Stage d'exécution Bouygues Bâtiment Grand Ouest**
 
-`2025` **Job étudiant - Atelier Flinois**
+* Découverte du secteur du bâtiment
+* Précision
+* Communication
+
+`2024 - Aujourdh'hui` **Job étudiant - Atelier Flinois**
+
+Préparation des colis de montres et bijoux à envoyer en réparation
 
 * Logistique
 * Communication
 * Gestion des délais
 
 
-`2025` **Etudiante Relais Santé**
+`2024 - Aujourdh'hui` **Co-Présidente - Association Bien-Être et Santé**
+
+L'Association Bien-Être et Santé a pour but de sensibiliser les étudiants aux bien-être, à la santé mentale et physique, à l'inclusion et bien d'autres sujets.
 
 * Communication
-* Construction projet (sensibilisation, sondage, etc...)
-
+* Gestion de projet
+* Gestion d'équipe
+* Ecoute active
 
 ## Compétences
 
 Langues
 * Anglais : B1
-* Espagnol : B1
+* Espagnol : B2
 
 Informatique
 * Language C
+* Notion de Linux
+* Notion de Python
+
+Autre
 * Logiciels Microsoft
+* Conception 3D
+* Brasage
 
 ## Centres d’intérêt
 
-Pâtisserie
-* Précision
-
-Couture
-* Patience
+* Pâtisserie
+* Couture
+* Dessin
+* Lecture
