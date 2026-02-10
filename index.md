@@ -9,9 +9,9 @@ hero_image_ratio: is-4by5
 ---
 
 # Yasmine EL HASSANI
-Elève ingénieur en Numérique et Energie
+Élève ingénieur en Numérique et Énergie
 
-
-Disponible 1 mois à partir du 23 juin 2025
+En recherche d'une alterance en gestion de donnée pour la période 2026-2029
 
 elhassani.yasmine2024@gmail.com
+07 60 17 09 07
