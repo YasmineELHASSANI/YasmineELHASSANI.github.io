@@ -3,7 +3,7 @@ layout: page
 title: Mon parcours
 description: "Ceci est un exemple de CV que vous pouvez générer par vous-même"
 menubar: menu_bar
-download_cv: CV_EL HASSANI Yasmine.pdf
+download_cv: Copie de Yasmine EL HASSANI_20260211_084150_0000.pdf
 ---
 
 ## Formation 
