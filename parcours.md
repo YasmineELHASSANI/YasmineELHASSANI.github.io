@@ -29,7 +29,7 @@ Elève ingénieur en Numérique et Energie
 
 
 ## Expériences
-`Juin-Juillet 2025`  **Stage d'exécution Bouygues Bâtiment Grand Ouest**
+`Juin - Juillet 2025`  **Stage d'exécution Bouygues Bâtiment Grand Ouest**
 
 * Découverte du secteur du bâtiment
 * Précision
